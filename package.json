@@ -1,0 +1,31 @@
+{
+  "name": "dinli",
+  "version": "0.0.0",
+  "description": "Wrapper for the Dinli URL Shortener",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && node test.js"
+  },
+  "keywords": [
+    "dinli",
+    "din.li",
+    "url",
+    "link",
+    "shortener",
+    "shortening",
+    "bitly",
+    "googl",
+    "bit.ly",
+    "goo.gl",
+    "uri",
+    "short"
+  ],
+  "author": "Diego Rodríguez Baquero <diegorbaquero@gmail.com> (https://diegorbaquero.com)",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.1.2"
+  },
+  "devDependencies": {
+    "standard": "^11.0.1"
+  }
+}
