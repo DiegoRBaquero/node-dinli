@@ -27,5 +27,13 @@
   },
   "devDependencies": {
     "standard": "^11.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/DiegoRBaquero/node-dinli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DiegoRBaquero/node-dinli/issues"
+  },
+  "homepage": "https://github.com/DiegoRBaquero/node-dinli"
 }
